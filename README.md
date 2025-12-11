@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_LOGO_LINK_HERE" alt="PawGram Logo" width="180" />
+  <img src="https://github.com/pawdevelopers/PawGram/blob/d40c280425abda3af87cbd463c22b5e339e58fbf/logo.png" alt="PawGram Logo" width="180" />
 </p>
 
 <h1 align="center">🐾 PawGram</h1>
