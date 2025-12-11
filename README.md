@@ -92,7 +92,10 @@ Stay connected with development updates, announcements, and PawDevs projects:
 
 🖼 Screenshots
 
-![screenshot] (screenshot.png)
+<p align="center">
+  <img src="https://github.com/pawdevelopers/PawGram/blob/f8373ca46989ce6adf13267756ca8dd73ab3270f/screenshot.png" width="400" alt="screenshot"/>
+</p>
+
 
 ---
 
