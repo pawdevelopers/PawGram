@@ -38,7 +38,7 @@ It restores usability, improves stability, and keeps the lightweight Alpha UI ex
 ## 📡 Official Community Channels
 
 - 📢 Developer Announcements — https://t.me/PawDevs  
-- 🐾 PawGram Updates — *(Add your dedicated link if available)*  
+- 🐾 PawGram Updates — https://t.me/pawgramv7a
 
 ---
 
