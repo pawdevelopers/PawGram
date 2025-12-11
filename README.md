@@ -92,17 +92,7 @@ Stay connected with development updates, announcements, and PawDevs projects:
 
 🖼 Screenshots
 
-> You can add screenshots here when available.
-Example format:
-
-
-
-<p align="center">
-  <img src="screenshots/home.png" width="250">
-  <img src="screenshots/profile.png" width="250">
-  <img src="screenshots/settings.png" width="250">
-</p>
-
+![screenshot] (https://github.com/pawdevelopers/PawGram/blob/f8373ca46989ce6adf13267756ca8dd73ab3270f/screenshot.png)
 
 ---
 
