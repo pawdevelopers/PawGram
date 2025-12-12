@@ -1,90 +1,148 @@
+<!-- Banner / Logo -->
 <p align="center">
   <img src="https://github.com/pawdevelopers/PawGram/blob/d40c280425abda3af87cbd463c22b5e339e58fbf/logo.png" alt="PawGram Logo" width="180" />
 </p>
 
 <h1 align="center">🐾 PawGram</h1>
-<h3 align="center">Instagram Alpha Fork Optimized for 32-bit Legacy Android Devices</h3>
+
+<p align="center">
+  <strong>Instagram Alpha Fork Optimized for 32-bit & 64-bit Android Devices</strong>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/pawdevelopers/PawGram?style=for-the-badge" />
   <img src="https://img.shields.io/github/downloads/pawdevelopers/PawGram/total?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/pawdevelopers/PawGram?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-32bit-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-32bit_&_64bit-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
-PawGram is a refined, performance-optimized fork of **Instagram Alpha**, designed specifically for **older 32-bit architecture Android devices**.  
-It restores usability, improves stability, and keeps the lightweight Alpha UI experience alive for devices no longer supported by official builds.
+## 🎯 Overview
+
+**PawGram** is a performance-enhanced, stability-focused fork of **Instagram Alpha**, originally created to revive support for legacy 32-bit Android devices.  
+With the latest updates, **PawGram now fully supports both 32-bit and 64-bit architectures**, bringing the optimized Alpha experience to a wider range of devices — from older legacy models to modern smartphones.
+
+This expansion ensures:
+
+- Broader device compatibility  
+- Faster performance on 64-bit processors  
+- Continued support for older hardware  
+
+Built with ❤️ by **PawDevs**, PawGram stays committed to transparency, performance, and community-driven development.
 
 ---
 
-## 🚀 Key Highlights
+## ✨ Key Features
 
-- **Optimized for 32-bit devices** — Smooth, stable performance on legacy hardware  
-- **Enhanced Instagram Alpha UI** — Clean, lightweight interface  
-- **Performance & stability upgrades** — Reduced crashes, improved memory handling  
-- **Community-driven & transparent** — No telemetry, ads, or hidden modifications  
+### ⚡ Optimized for 32-bit & 64-bit Devices
+- Dedicated builds for *legacy 32-bit ARMv7*  
+- High-performance optimization for *modern 64-bit ARMv8*  
+- Improved responsiveness across all hardware classes  
+
+### 🖥 Refined Instagram Alpha UI
+- Lightweight and responsive  
+- Preserves the clean Alpha interface  
+- Smooth scrolling & improved animations  
+
+### 🔧 Performance & Stability Enhancements
+- Memory-optimized rendering pipeline  
+- Better thread and cache management  
+- Reduced crashes, lag, and ANRs  
+
+### 🔐 Safe & Transparent
+- No hidden telemetry  
+- No third-party ads  
+- Community-maintained and open development  
 
 ---
 
-## 📥 Download Latest Release
+## 📥 Download PawGram
 
-**Latest APK:**  
-👉 https://github.com/pawdevelopers/PawGram/releases
+Download the latest version (32-bit or 64-bit builds available):
 
----
+👉 **https://github.com/pawdevelopers/PawGram/releases**
 
-## 📡 Official Community Channels
-
-- 📢 Developer Announcements — https://t.me/PawDevs  
-- 🐾 PawGram Updates — https://t.me/pawgramv7a
+All releases are tested extensively on both architectures before publishing.
 
 ---
 
 ## 🛠 Installation
 
-1. Download the newest **PawGram APK**  
+1. Download the correct build for your device (32-bit or 64-bit)  
 2. Enable **Install Unknown Apps**  
-3. Install & open  
-4. Enjoy the smooth Alpha experience  
+3. Install PawGram  
+4. Log in and enjoy the optimized Instagram Alpha experience  
 
 ---
 
-## 🧠 Technical Overview
+## 🧠 Technical Architecture
 
-PawGram includes several low-level optimizations:
+PawGram includes deep optimizations for both architectures:
 
-- ARMv7 / 32-bit compatibility patches  
-- Memory-optimized rendering pipeline  
-- Fixes for deprecated/unsupported IG services  
-- Improved caching & thread management  
-- UI performance refinements  
+### 🔸 32-bit Enhancements
+- ARMv7 compatibility patches  
+- Memory-reduced rendering  
+- Optimized cache flow for low-RAM devices  
+
+### 🔹 64-bit Enhancements
+- ARMv8 instruction optimizations  
+- Faster decoding and smoother UI  
+- Improved load times & rendering precision  
+
+### General Improvements
+- Patched deprecated Instagram services  
+- Background service stability fixes  
+- Optimized network handling  
+
+These improvements ensure PawGram performs efficiently across a full spectrum of Android devices.
 
 ---
 
-## 🐛 Issues & Feature Requests
+## 🐞 Bug Reporting & Feature Requests
 
-Submit here:  
-👉 https://github.com/pawdevelopers/PawGram/issues
+Report issues and request features here:
+
+👉 **https://github.com/pawdevelopers/PawGram/issues**
+
+Include the following when reporting:
+
+- Device model  
+- 32-bit or 64-bit  
+- Android version  
+- App version  
+- Steps to reproduce  
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions!  
-Submit PRs, report bugs, suggest improvements, or help with testing.
+We welcome contributions from the community, including:
+
+- Pull Requests  
+- Feature suggestions  
+- Documentation improvements  
+- Testing on various 32-bit & 64-bit devices  
 
 ---
 
-## 📜 Disclaimer
+## 📡 Community & Support
 
-PawGram is a community modification and is **not affiliated with Instagram or Meta**.  
-Users must follow Instagram’s Terms of Service.
+Stay connected:
+
+- 📢 **Announcements:** https://t.me/PawDevs  
+- 🐾 *(Add PawGram-specific channel link if applicable)*  
+
+---
+
+## ⚠ Disclaimer
+
+PawGram is an independent modification project and is **not affiliated with Instagram or Meta Platforms, Inc.**  
+Use responsibly and in compliance with Instagram’s Terms of Service.
 
 ---
 
 ## 💙 Credits
 
 Developed with 🐾 by **PawDevs**  
-Thanks to all testers, contributors, and supporters.
+Special thanks to community testers, supporters, and contributors.
