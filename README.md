@@ -29,7 +29,7 @@ This expansion ensures:
 - Faster performance on 64-bit processors  
 - Continued support for older hardware  
 
-Built with ❤️ by **PawDevs**, PawGram stays committed to transparency, performance, and community-driven development.
+Built with 🐾 by **PawDevs**, PawGram stays committed to transparency, performance, and community-driven development.
 
 ---
 
@@ -131,7 +131,8 @@ We welcome contributions from the community, including:
 Stay connected:
 
 - 📢 **Announcements:** https://t.me/PawDevs  
-- 🐾 *(Add PawGram-specific channel link if applicable)*  
+- 🐾 **Community:**
+https://t.me/pawgramapp
 
 ---
 
